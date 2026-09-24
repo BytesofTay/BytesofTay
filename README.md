@@ -1,21 +1,17 @@
 # Hi, I'm Tayllor Robertson 👋
 
-I build backend and AI products that make complex workflows easier to understand and act on.
+I build software at the intersection of backend engineering, AI, and human-centered product design. I'm studying computer science and computer engineering at Santa Monica College and looking for software engineering, AI engineering, product, and HCI internships.
 
-Currently focused on:
+## Projects
 
-- Backend systems with Python, FastAPI, SQL, and Node.js
-- AI features with LLMs, RAG, LangChain, and evaluation-minded product design
-- Human-centered product experiences across software engineering, HCI, and cognitive science
+| Project | What I built | Evidence |
+| --- | --- | --- |
+| [STEM Pathfinder](https://github.com/BytesofTay/stem-pathfinder) | LA magnet-school browsing and quiz prototype with a separate FastAPI model-scoring API | [Live demo](https://stempathfinder.netlify.app/) · Python tests and CI; model scores are experimental |
+| [Questline](https://github.com/BytesofTay/questline-habits) | Responsive React habit-game prototype with quests, rewards, and a scripted battle | Source · lint/build CI; leaderboard and matchmaking are sample flows |
+| [OutsideHabit](https://github.com/BytesofTay/outsidehabit) | SwiftUI outdoor-session tracker with local progress and rule-based prompts | Source · iOS simulator build CI; HealthKit is not connected |
+| [LoveCode](https://github.com/BytesofTay/lovecode) | Technical-interview practice workspace | Source and documented limitations |
+| [Portfolio](https://github.com/BytesofTay/portfolio) | Project and experience showcase | Source |
 
-## Featured work
+I'm especially interested in reliable APIs, useful AI features, and products people can understand quickly. My repositories distinguish working features from prototypes and planned work.
 
-- [Portfolio](https://github.com/BytesofTay/portfolio) — responsive showcase of backend, AI, health-tech, and product work
-- [LoveCode](https://github.com/BytesofTay/lovecode) — deliberate-practice workspace for technical interviews
-- [STEM Pathfinder](https://github.com/BytesofTay/stem-pathfinder) — guided STEM exploration with automated checks and a roadmap for retrieval and async workers
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/tayllor-hazel-robertson/) · [GitHub](https://github.com/BytesofTay) · [Email](mailto:tayllor.robertson@gmail.com)
-
-_Open to software engineering, AI engineering, technical product, HCI, and cognitive-science opportunities._
+[LinkedIn](https://www.linkedin.com/in/tayllor-hazel-robertson/) · [Email](mailto:tayllor.robertson@gmail.com)
